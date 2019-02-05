@@ -1,0 +1,48 @@
+body {
+  width: 95%;
+  max-width: 1200px;
+  margin: auto;
+  font-family: Arial, "roboto", sans-serif;
+  line-height: 1.5;
+  background: url(../img/md.jpg) center;
+  color: #fff;
+}
+
+.logo {
+  text-align: center;
+}
+.name {
+  font-size: 40px;
+
+  text-align: center;
+}
+.line {
+  font-size: 25px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+main {
+  background: #00000054;
+  padding: 5px 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.concert {
+  margin: 30px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.concert table {
+  background: #e1371e66;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 0 auto;
+  display: inline-block;
+}
